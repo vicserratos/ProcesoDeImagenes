@@ -18,14 +18,17 @@
 [Descargar Java 8](https://www.oracle.com/mx/java/technologies/javase/javase-jdk8-downloads.html)
   ***Si es necesario***
 
-## **Instalación rápida de Java 8**
+## **Ejecutar si ya tienes Java 8:**
+* java -jar ProcesoDigital.jar
+
+
+## **Instalación rápida de Java 8 de ser necesario**
 **Linux**
 * Descragar ***Linux x64 Compressed Archive***
 * Descomprime el archivo:
 ```
 $ tar -xzvf jdk-8u281-linux-x64.tar.gz
 ```
-
 **Windows**
 * Descargar el ejecutable y seguir los pasos
 
